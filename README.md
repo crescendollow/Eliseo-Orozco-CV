@@ -1,2 +1,2 @@
-# ArgentinaPrograma1st
- Primer curso entregable de Argentina Programa 4.0
+# Eliseo-Orozco-CV
+Curriculum Vitae personal con infromacion sobre proeyctos personales, educacion y datos de contacto
