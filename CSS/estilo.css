@@ -1,0 +1,86 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.UserCard{
+    background-color: lightblue;
+    text-align: center;
+    height: 320px;
+}
+
+.UserCard h1,h2,h3{
+    padding: 20px;
+}
+
+.UserCV{
+    padding: 15px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.userPanel{
+    background-color: lightgray;
+}
+
+.espList{
+    margin-left: 50px;
+    text-align: left;
+    font-size: large;
+    padding: 5px;
+}
+
+.contactList{
+    text-align: left; 
+    list-style: none;
+}
+
+.contactList li{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.socialList{
+    text-align: left;
+    list-style: none;
+}
+
+.socialList img{
+    padding: 5px;
+    margin: 5px;
+}
+
+.listItem{
+    color: black;
+    text-decoration: none;
+}
+
+.userDisplayName{
+    text-align: center;
+    font-size: 100px;
+    margin: 100px auto;
+    background-color: lightpink;
+}
+
+.logoRedSocial{
+    width: 50px;
+    height: 50px;
+    border-radius: 5%;
+}
+
+.subTitle{
+    font-size: 50px;
+    margin: 5px;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    font-weight: bold;
+}
+
+.listAcademy{
+    margin: 10px auto;
+    text-align: left;
+    width: 50vw;
+    font-size: 15px;
+}
